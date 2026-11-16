@@ -1,8 +1,8 @@
 # Tamagotchi Simulator
 
-A Python Tamagotchi-style virtual pet simulator built for the Introduction to Python Programming course (EPITA, IPP, Fall 2026).
+A Python Tamagotchi-style virtual pet simulator.
 
-The player manages three virtual pets and keeps them alive by feeding, playing, putting them to sleep, and healing them. Each pet has four stats — hunger, health, boredom, and exhaustion — that change over time and with random events. The game can be played through a command-line menu or a Tkinter graphical interface.
+The player manages three virtual pets and keeps them alive by feeding, playing, putting them to sleep, and healing them. Each pet has four stats hunger, health, boredom, and exhaustion that change over time and with random events. The game can be played through a command line menu or a Tkinter graphical interface.
 
 ## Features
 
